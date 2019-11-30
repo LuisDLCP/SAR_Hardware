@@ -1,4 +1,7 @@
-SAR_v1_5/*.epf
-*.brd
+*.epf
+*.png
+*.csv
+*.pdf
+*.jpg
 #!.brd
 #!.sch
